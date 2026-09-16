@@ -36,3 +36,7 @@ Caso você faça o download do arquivo `.jar` compilado:
    ```bash
    java -jar Gestorar.jar
    ```
+   
+## Confira o JAR aqui
+
+https://github.com/DaltroSJ/GestorAr/releases
