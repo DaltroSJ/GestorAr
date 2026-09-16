@@ -1,0 +1,24 @@
+# Compilação e Artefatos do Maven
+target/
+*.jar
+*.war
+*.ear
+
+# Arquivos Eclipse
+.settings/
+.project
+.classpath
+.factorypath
+
+# Arquivos IntelliJ 
+.idea/
+*.iml
+*.iws
+
+# Arquivos VSC
+.vscode/
+
+# Logs e arquivos temporários do sistema
+*.log
+.DS_Store
+Thumbs.db
